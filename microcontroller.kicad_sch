@@ -1,5 +1,23 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "fd5c7bc7-0183-4c89-a67d-10519df33225")
+	(paper "A4")
+	(lib_symbols)
+	(text "TEST"
+		(exclude_from_sim no)
+		(at 133.35 95.25 0)
+		(effects
+			(font
+				(size 10 10)
+			)
+		)
+		(uuid "3c2c2c4e-2bac-43bb-8f2a-730b3ce11ff9")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
