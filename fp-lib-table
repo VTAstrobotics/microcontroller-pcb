@@ -3,4 +3,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "HSMS_C150")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/HSMS_C150.pretty")(options "")(descr ""))
   (lib (name "FUSE_0031.7701.11_SCH")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/FUSE_0031.7701.11_SCH.pretty")(options "")(descr ""))
+  (lib (name "DE09P064TXLF")(type "KiCad")(uri "C:/Users/nick/Downloads/DE09P064TXLF/KiCADv6/DE09P064TXLF.pretty")(options "")(descr ""))
 )
